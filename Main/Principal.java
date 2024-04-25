@@ -2,10 +2,10 @@ import javax.swing.JOptionPane;
 
 public class Principal {
 
-    static int total = 0;
-    static int a = 0;
-    static int b = 0;
 
+    static int  total = 0;
+  static  int a = 0;
+  static  int b = 0;
     public static void main(String[] args) {
 
         JOptionPane.showMessageDialog(null, "Bienvenido a sumar dos numeros...");
